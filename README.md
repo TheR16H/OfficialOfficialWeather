@@ -2,7 +2,7 @@
 
 ## Description 
 
-This Is a [weather site](https://ther16h.github.io/OfficialWeather/) that will bring up an accurate 5 day forecast using data captured with an API, all while keeping your previous search history stored for easy researchability. 
+This Is a [weather site](https://ther16h.github.io/OfficialWeather/) that will bring up an accurate 5 day forecast using data captured with an API, all while keeping your previous searches stored to the side under the search bar for easy researchability. 
 
 ## Table of Contents
 
