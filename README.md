@@ -9,6 +9,8 @@ This Is a [weather site](https://ther16h.github.io/OfficialWeather/) that will b
 - [Support](#support)
 - [Visuals](#visuals)
 - [Contributions](#contributions)
+- [Usage](#usage)
+- [Acknowledgements](#acknowledgements)
 - [License](#license)
 
 ## Support
@@ -20,6 +22,12 @@ N/A
 
 ## Contributions
 N/A
+
+## Usage
+The intended usage to find the weather for a span of 5 days for any place of your choosing
+
+## Acknowledgements
+- [Open Weather](https://openweathermap.org/) is where the API was provided from
 
 ## License
 MIT License
