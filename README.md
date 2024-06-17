@@ -14,14 +14,14 @@ This is a  [weather site](https://ther16h.github.io/OfficialWeather/) that will 
 - [License](#license)
 
 ## Support
-N/A
+For support contact me via [Github](https://github.com/TheR16H)
 
 ## Visuals
 ![ScreenShot1](./assets/images/SS2.png)
 ![Demo](./assets/images/Demo2.gif) 
 
 ## Contributions
-N/A
+None are required but if you must please fork the repo and then tackle something that's in the issues tab!
 
 ## Usage
 The intended usage for this application is to find the weather for a span of 5 days for any place of your choosing
