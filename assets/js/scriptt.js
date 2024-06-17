@@ -240,4 +240,4 @@ function handleSearchFormSubmit(e) {
   searchForm.addEventListener('submit', handleSearchFormSubmit);
     console.log("How's the weather?");
     searchHistoryContainer.addEventListener('click', handleSearchHistoryClick);
-  initSearchHistory();
+    initSearchHistory();
