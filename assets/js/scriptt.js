@@ -233,6 +233,7 @@ function handleSearchFormSubmit(e) {
     const search = btn.getAttribute('data-search');
     fetchCoords(search);
   }
+  //fixed the fetchCoords
 
   
   // this is just calling functions/setting up the eventlisteners to know when someone submits / make sure it can handle displaying the search history

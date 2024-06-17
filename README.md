@@ -2,7 +2,7 @@
 
 ## Description 
 
-This Is a [weather site](https://ther16h.github.io/OfficialWeather/) that will bring up an accurate 5 day forecast using data captured with an API, all while keeping your previous searches stored to the side under the search bar for easy researchability. 
+This is a  [weather site](https://ther16h.github.io/OfficialWeather/) that will bring up an accurate 5 day forecast using data captured with an API,  while keeping your previous searches stored to the side under the search bar for easy researchability. 
 
 ## Table of Contents
 
@@ -18,13 +18,13 @@ N/A
 
 ## Visuals
 ![ScreenShot1](./assets/images/SS2.png)
-![Demo](./assets/images/demo-ezgif.com-speed.gif) 
+![Demo](./assets/images/Demo2.gif) 
 
 ## Contributions
 N/A
 
 ## Usage
-The intended usage to find the weather for a span of 5 days for any place of your choosing
+The intended usage for this application is to find the weather for a span of 5 days for any place of your choosing
 
 ## Acknowledgements
 - [Open Weather](https://openweathermap.org/) is where the API was provided from
